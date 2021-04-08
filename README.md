@@ -4,6 +4,7 @@
 
 ## 使い方
 
+1. [settings.py](settings.py)に授業フォルダを作りたいローカルパスを指定
 1. 授業の名前を改行区切りで[lecuture_name_in.txt](lecture_name_in.txt)に書き込む
 1. ```python main.py```を実行
 
